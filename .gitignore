@@ -1,0 +1,11 @@
+#excluding the class files
+*.class 
+
+#excluding classpath file
+.classpath
+
+#excluding project file
+.project
+
+#excluding the prefs file
+*.prefs
